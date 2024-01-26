@@ -1,2 +1,0 @@
-# QV
-Quadra Voice
